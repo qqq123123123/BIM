@@ -8,3 +8,4 @@ Leap Motion 센서를 활용한 리듬게임
 
 따라하려고 했던 게임: OctoRhythm (https://gallery.leapmotion.com/octorhythm/)
 
+미완성작

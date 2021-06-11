@@ -8,4 +8,12 @@ Leap Motion 센서를 활용한 리듬게임
 
 따라하려고 했던 게임: OctoRhythm (https://gallery.leapmotion.com/octorhythm/)
 
-미완성작
+세부 판정 구현x (O X 여부만)
+
+두 손 모드 x
+
+메뉴, 결과화면 x (플레이 화면 Only)
+
+종료시점 x
+
+bpm 높아질 경우 정확한 판정 불가.

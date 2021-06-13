@@ -26,4 +26,4 @@ Alt+F4 혹은 닫기로 종료.
 
 ![image](https://user-images.githubusercontent.com/67883436/121725298-0a7a9900-cb24-11eb-8ec1-32fe25a7e04d.png)
 
-![image](https://user-images.githubusercontent.com/67883436/121810903-7a605f00-cc9d-11eb-89ed-07e595d62d22.png)
+![image](https://user-images.githubusercontent.com/67883436/121810932-906e1f80-cc9d-11eb-9ca1-2093b07c8413.png)
